@@ -1,0 +1,27 @@
+#Imaginary is denoted by j
+x=5+7j
+print(type(x))
+y=6000
+b=222222222222222
+a=34334
+print(type(a))
+print(type(b))
+print(type(y))
+c=10.5
+d=1.7
+e=23.9
+print(type(c))
+print(type(d))
+print(type(e))
+#
+y=34
+newno=float(y)
+print(newno)
+#complex
+z=23.1
+newi=int(z)
+print(newi)
+#
+g=90
+news=complex(g)
+print(news)
